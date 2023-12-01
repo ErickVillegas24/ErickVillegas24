@@ -5,8 +5,8 @@
 - <b>Microsoft Azure Sentinal (SIEM) with Virtual Machine Honeypot
    - Coming Soon...</b>
 - <b> CISCO Packet Tracer
-  - Simple Networking Project
-     - Coming Soon... </b>
+  - [Simple Networking Project](https://github.com/ErickVillegas24/SimpleNetworkingProject)
+     - Pending (Draft) </b>
 
 <h2> :page_facing_up: Certifications </h2>
 
