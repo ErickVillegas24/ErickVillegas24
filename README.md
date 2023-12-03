@@ -10,8 +10,7 @@
 
 <h2> :page_facing_up: Certifications </h2>
 
-- CompTIA Project+
-  - (Estimated: December 1st, 2023)
+- [CompTIA Project+](https://www.credly.com/badges/c6b65adf-2aaa-43ad-a260-f981d7c8d31b/public_url)
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000566360/kj59ebkr4l)
 - [CompTIA Security+](https://www.credly.com/badges/f3a785b8-9c2d-4727-95f2-9d7e65128da0/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/0fdbc65c-b09a-4a46-a479-51ae432f63e3/public_url)
