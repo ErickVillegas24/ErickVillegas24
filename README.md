@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure Sentinal (SIEM) with Virtual Machine Honeypot
-   - [Draft...](https://github.com/ErickVillegas24/AzureSIEMHoneypot/blob/main/README.md)
+   - [Azure SIEM & Honeypot](https://github.com/ErickVillegas24/AzureSIEMHoneypot/blob/main/README.md)
+      - Pending (Draft) </b>
 - <b> CISCO Packet Tracer
   - [Simple Networking Project](https://github.com/ErickVillegas24/SimpleNetworkingProject)
      - Pending (Draft) </b>
