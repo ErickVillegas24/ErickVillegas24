@@ -24,7 +24,7 @@
 <h2> Facts About Me </h2>
 
 - 🔭 I’m currently working on finishing my project/portfolio in GitHub. Plan to upload more information regarding my first CISCO Packet Tracer Project and my Azure Sentinel project!
-- 🌱 I’m currently studying "D334: Introduction to Cryptography" at Western Governors University and pursuing a Bachelor of Science in Cybersecurity and Information Assurance (66% Progression; 80/122 CUs)
+- 🌱 I’m currently studying "D334: Introduction to Cryptography" at Western Governors University and pursuing a Bachelor of Science in Cybersecurity and Information Assurance (68% Progression; 83/122 CUs)
 - 🤔 I’m looking for help with advancing in my career and getting more hands-on experience. Learn more about the world of Cybersecurity, Penetration Tester, Cyber Defense, Cloud Security, Cloud Administration, Digital Forensics, and Network Security.
 
 
