@@ -24,7 +24,7 @@
 <h2> Facts About Me </h2>
 
 - 🔭 I’m currently working on finishing my project/portfolio in GitHub. Plan to upload more information regarding my first CISCO Packet Tracer Project and my Azure Sentinel project! I currently work as a Jr. Database Administrator
-- 🌱 I’m currently studying "C843: Managing Information Security" at Western Governors University and pursuing a Bachelor of Science in Cybersecurity and Information Assurance (79% Progression; 90/122 CUs)
+- 🌱 I’m currently studying for the ISC2 SSCP Certification or "C845: Information Systems Security" at Western Governors University and pursuing a Bachelor of Science in Cybersecurity and Information Assurance (79% Progression; 96/122 CUs)
 - 🤔 I’m looking for help with advancing in my career and getting more hands-on experience. Learn more about the world of Cybersecurity, Penetration Tester, Cyber Defense, Cloud Security, Cloud Administration, Digital Forensics, and Network Security.
 
 
