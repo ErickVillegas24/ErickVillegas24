@@ -11,6 +11,7 @@
 
 <h2> :page_facing_up: Certifications </h2>
 
+- [ISC2 Associate (SSCP)](https://www.credly.com/badges/b9145798-98d9-4108-b46d-812afb1822cd/public_url)
 - [CompTIA Project+](https://www.credly.com/badges/c6b65adf-2aaa-43ad-a260-f981d7c8d31b/public_url)
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000566360/kj59ebkr4l)
 - [CompTIA Security+](https://www.credly.com/badges/f3a785b8-9c2d-4727-95f2-9d7e65128da0/public_url)
@@ -24,7 +25,7 @@
 <h2> Facts About Me </h2>
 
 - 🔭 I’m currently working on finishing my project/portfolio in GitHub. Plan to upload more information regarding my first CISCO Packet Tracer Project and my Azure Sentinel project! I currently work as a Jr. Database Administrator
-- 🌱 I’m currently studying for the ISC2 SSCP Certification or "C845: Information Systems Security" at Western Governors University and pursuing a Bachelor of Science in Cybersecurity and Information Assurance (79% Progression; 96/122 CUs)
+- 🌱 I’m currently studying "D335: Introduction to Programming in Python" at Western Governors University and pursuing a Bachelor of Science in Cybersecurity and Information Assurance (84% Progression; 103/122 CUs)
 - 🤔 I’m looking for help with advancing in my career and getting more hands-on experience. Learn more about the world of Cybersecurity, Penetration Tester, Cyber Defense, Cloud Security, Cloud Administration, Digital Forensics, and Network Security.
 
 
