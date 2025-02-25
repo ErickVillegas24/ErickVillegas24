@@ -8,6 +8,9 @@
 - <b> CISCO Packet Tracer
   - [Simple Networking Project](https://github.com/ErickVillegas24/SimpleNetworkingProject)
      - Pending (Draft) </b>
+- <b> Introduction to Python (D335 - WGU)
+   - [Python "Projects"](https://github.com/ErickVillegas24/D335-Introduction-to-Python-Class-Progress-)
+     - In progress... </b>
 
 <h2> :page_facing_up: Certifications </h2>
 
