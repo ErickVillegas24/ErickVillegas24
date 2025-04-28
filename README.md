@@ -29,7 +29,7 @@
 <h2> Facts About Me </h2>
 
 - 🔭 I’m currently working on finishing my project/portfolio in GitHub. Plan to upload more information regarding my first CISCO Packet Tracer Project and my Azure Sentinel project! I currently work as a Jr. Database Administrator
-- 🌱 I’m currently studying "D335: Introduction to Programming in Python" at Western Governors University and pursuing a Bachelor of Science in Cybersecurity and Information Assurance (84% Progression; 107/122 CUs)
+- 🌱 I’m currently studying "D335: Introduction to Programming in Python" at Western Governors University and pursuing a Bachelor of Science in Cybersecurity and Information Assurance (88% Progression; 107/122 CUs)
 - 🤔 I’m looking for help with advancing in my career and getting more hands-on experience. Learn more about the world of Cybersecurity, Penetration Tester, Cyber Defense, Cloud Security, Cloud Administration, Digital Forensics, and Network Security.
 
 
