@@ -14,6 +14,7 @@
 
 <h2> :page_facing_up: Certifications </h2>
 
+- [CompTIA CySA+](https://www.credly.com/badges/a91a8434-2ea8-47fa-ba39-13d3201b753f/public_url)
 - [ISC2 Associate (SSCP)](https://www.credly.com/badges/b9145798-98d9-4108-b46d-812afb1822cd/public_url)
 - [CompTIA Project+](https://www.credly.com/badges/c6b65adf-2aaa-43ad-a260-f981d7c8d31b/public_url)
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000566360/kj59ebkr4l)
